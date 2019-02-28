@@ -1,0 +1,15 @@
+p {
+  color: tomato;
+}
+
+a:hover {
+  color: goldenrod;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.bear {
+  display: inline-block;
+}
